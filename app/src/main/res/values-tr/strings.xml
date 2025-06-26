@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Yapilacaklar</string>
+    <string name="mainScreenTitle">Yapilacaklar</string>
+    <string name="saveScreenTitle">Kayit Sayfa</string>
+    <string name="updateScreenTitle">Guncelleme Sayfa</string>
+    <string name="searchHint">Ara</string>
+    <string name="editTextNameHint">Ad</string>
+    <string name="saveTitle">KAYDET</string>
+    <string name="updateTitle">GUNCELLE</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
