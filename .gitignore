@@ -13,3 +13,28 @@
 .externalNativeBuild
 .cxx
 local.properties
+# Gradle
+.gradle/
+build/
+**/build/
+**/.gradle/
+
+# IDE
+.idea/
+*.iml
+local.properties
+
+# Kotlin compiler & JAR/ZIP
+*.jar
+*.zip
+
+# Caches
+.caches/
+**/caches/
+
+# Wrapper
+wrapper/
+
+# Other
+.DS_Store
+
