@@ -3,12 +3,19 @@
 TodosApp, Kotlin kullanılarak geliştirilmiş modern bir Android görev yönetimi (to-do list) uygulamasıdır. Kullanıcıların günlük görevlerini kolayca ekleyip yönetmesini sağlar.
 
 🚀 Özellikler
+
 ✅ Görev ekleme, güncelleme ve silme (CRUD işlemleri)
+
 📂 Görevlerin liste halinde görüntülenmesi
+
 💾 Kalıcı veri saklama (local database)
+
 ⚡ Modern Android mimarisi kullanımı
+
 🧩 Modüler proje yapısı
+
 🛠️ Kullanılan Teknolojiler
+
 Kotlin
 Android SDK
 Gradle (KTS)
