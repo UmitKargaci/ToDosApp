@@ -28,6 +28,7 @@ git clone <repo-link>
 Android Studio ile aç
 Gradle sync yap
 Uygulamayı çalıştır
+
 🎯 Amaç
 
 Bu proje, Android geliştirme becerilerini geliştirmek ve modern yazılım mimarilerini uygulamalı olarak deneyimlemek amacıyla oluşturulmuştur.
