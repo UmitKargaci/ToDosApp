@@ -22,11 +22,13 @@ Gradle (KTS)
 MVVM (Model-View-ViewModel) mimarisi
 Room / SQLite (varsa ekleyebilirsin)
 Git & GitHub
+
 📁 Proje Yapısı
 app/ → Ana uygulama kodları
 kotlin/errors/ → Hata yönetimi
 gradle/ → Build yönetimi
 daemon/ & native/ → Gradle ve sistem bileşenleri
+
 ⚙️ Kurulum
 
 Repoyu klonla:
